@@ -9,16 +9,4 @@ Currently, two official plugins are available:
 
 
 
- {/*{albumsData.map((items,index)=>{
-        return (
-        <AlbumItem   key={index} name={items.name} desc={items.desc} id={items.id} image={items.image}/>
-
-        )
-        })}*/}
-
-         {/*{albumsData.map((items,index)=>{
-        return (
-        <AlbumItem   key={index} name={items.name} desc={items.desc} id={items.id} image={items.image}/>
-
-        )
-        })}*/}
+ 
